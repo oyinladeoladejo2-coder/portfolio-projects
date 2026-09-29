@@ -1,36 +1,24 @@
-# portfolio-projects
+# Python Learning Portfolio 🐍
 
-# Palindrome Checker
+This repository contains my Python learning journey, from practicing the fundamentals through coding drills to building practical projects.
 
-A simple Python program that checks whether a word or string is a palindrome.
+It includes exercises and challenges covering different Python concepts, as well as projects that helped me apply what I learned to real problems.
 
-## What is a Palindrome?
+### What I'm Learning
 
-A palindrome is a word, phrase, or sequence that reads the same forward and backward.
+* Python fundamentals and syntax
+* Data structures
+* Functions and recursion
+* Object-oriented programming
+* File handling
+* Error handling
+* Testing with pytest
+* Problem-solving and algorithmic thinking
 
-Examples:
+### Projects
 
-- `madam` → Palindrome
-- `level` → Palindrome
-- `racecar` → Palindrome
-- `hello` → Not a palindrome
+The repository also contains projects built as part of my learning journey, where I apply Python concepts beyond individual exercises.
 
-## How It Works
+### Purpose
 
-The program takes a string as input and checks whether it is the same when reversed.
-
-If the original string and its reverse are the same, it is a palindrome.
-
-## Technologies Used
-
-- Python
-
-## How to Run
-
-1. Make sure Python is installed on your computer.
-2. Clone this repository.
-3. Open the project folder in your terminal.
-4. Run the Python file.
-
-```bash
-python palindrome.py
+This is a record of my progress as I continue developing my Python programming and problem-solving skills.
